@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>超时.wav</file>
+        <file>计时结束.wav</file>
+        <file>计时开始.wav</file>
+        <file>提醒.wav</file>
+    </qresource>
+</RCC>
